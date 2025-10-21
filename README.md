@@ -171,7 +171,7 @@ Roblox does **not** expose a true random source so all randomness in Studio and 
 ### 💡 In Short
 > Both are pseudo-random,  
 > but `Random.new()` is **less predictable**, **more statistically uniform**, and **safer** for modern game systems.
-
+> but 100% true randomness is impossible in pure Luau but this is asclose we can get really
 ---
 # Misc...
 [![License: ](https://img.shields.io/badge/License%3A-MIT-green?style=plastic)](https://github.com/not-mentally-stable/RandomBetween/blob/main/LICENSE)
