@@ -1,3 +1,5 @@
+>(not gonna lie this is more of a *why* not to use math.random instead of my script but anyways)
+
 # 🎲 RandomBetween
 A **universal randomization utility** for Roblox Luau that supports multiple Roblox datatypes powered by `Random.new()` for *unpredictable, high-quality randomness* (unlike `math.random`, which is deterministic).  
 This function simplifies random value generation for `number`, `Vector3`, `Color3`, `CFrame`, `UDim2`, `BrickColor`, and even `boolean` types all in one unified API.
